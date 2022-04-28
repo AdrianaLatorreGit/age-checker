@@ -1,7 +1,7 @@
 # age-checker
 Age verification exercise
 
-<div aling= "center" >
+<div align= "center" >
   <a href="https://age-checker-adrianalatorre.netlify.app/" terget="_blank">Demo</a>
   </div>
   <br/>
